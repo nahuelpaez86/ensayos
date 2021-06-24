@@ -1,3 +1,0 @@
-primer texto para jugar con git un rato
-
-hago cambiospara la rama develo

@@ -1,0 +1,21 @@
+.header {
+  background: red;
+  border-radius: 20px;
+}
+.titulo {
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+.contenido {
+  background: green;
+}
+.contenido2 {
+  margin-top: 60px;
+  background: blue;
+}
+.footer {
+  margin-top: 20px;
+  background: yellow;
+}
